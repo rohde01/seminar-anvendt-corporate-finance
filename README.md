@@ -1,6 +1,7 @@
-# Anvendt Corporate Finance
+# Seminar: Anvendt Corporate Finance
 
-Repository til seminaret i **Anvendt Corporate Finance** ved Økonomisk Institut, Københavns Universitet.
+Økonomisk Institut, Københavns Universitet · Kandidatseminar · Efterår 2026 · 7,5 ECTS  
+Kursuskode AØKK08345U · [Kursusbeskrivelse](https://kurser.ku.dk/course/a%C3%98kk08345u)
 
 ## Indhold
 
